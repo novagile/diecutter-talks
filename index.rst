@@ -3,9 +3,13 @@ Diecutter: templates as a service
 
 Presentation at an `AFPY <http://www.afpy.org>`_ event, march 2013, Paris.
 
-By Rémy Hubscher.
+By Rémy Hubscher and Benoit Bryon.
 
-Slides available on http://tech.novapost.fr
+Slides available on `http://tech.novapost.fr
+<http://tech.novapost.fr/static/images/slides/afpy-20130304-diecutter.html>`_
+
+This presentation is published under `CC BY 3.0
+<http://creativecommons.org/licenses/by/3.0/>`_
 
 -------------------------------------------------------------------------------
 
@@ -145,4 +149,5 @@ Resources
 * PyPI: https://pypi.python.org/pypi/diecutter
 * Code repository: https://github.com/novagile/diecutter/
 * Bugs and features: https://github.com/novagile/diecutter/issues
-* Slides: http://tech.novapost.fr
+* Slides: `http://tech.novapost.fr
+  <http://tech.novapost.fr/static/images/slides/afpy-20130304-diecutter.html>`_
