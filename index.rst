@@ -41,7 +41,7 @@ Generate configuration client-side:
 .. code-block:: sh
 
    wget --post-data="template_dir=src/templates"  \
-        --output-document="etc/diecutter.ini"     \
+        --output-document="diecutter.ini"     \
         http://diecutter.alwaysdata.net/diecutter.ini
 
 -------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Generate code
 
 .. code-block:: sh
 
-   curl --data="django_project=demo"                      \
+   curl --data "django_project=demo"                      \
         http://diecutter.alwaysdata.net/+django_project+  \
         > demo.zip
 
